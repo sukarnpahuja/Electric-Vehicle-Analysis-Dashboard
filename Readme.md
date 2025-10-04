@@ -43,6 +43,7 @@ An **interactive Power BI dashboard** showcasing insights into the adoption of *
 ---
 
 ## 📷 Dashboard Preview
-![Electric Vehicles Dashboard](0dccc13f-4531-4c8c-87c9-46f6634fa56f.png)
+<img width="1443" height="809" alt="ElectricVehicleAnalysisDashboard" src="https://github.com/user-attachments/assets/246a4adb-0732-48f8-beae-32be06f59f5f" />
+
 
 ---
